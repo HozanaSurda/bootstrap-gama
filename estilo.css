@@ -1,0 +1,40 @@
+body {
+	background-color: gray;
+}
+
+.container {
+	background-color: white;
+}
+
+h3 {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+h6 {
+	text-align: center;
+}
+
+#tituloDestaque {
+	margin-bottom: 30px;
+}
+
+#logoloja {
+	width: 100%;
+	text-align: center;
+	height: 80%;
+}
+
+#rodape {
+	background-color: darkgray;
+	padding-top: 50px;
+	color: white;
+}
+
+.ImagemTamanhoCard {
+	max-width: 200px;
+	max-height: 200px;
+}
